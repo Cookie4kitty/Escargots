@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //线程不安全
 public class HelloWorld{
 	private static HelloWorld instance;
@@ -23,3 +24,7 @@ public class HelloWorld{
 }
 
 
+=======
+# Escargots
+Test
+>>>>>>> parent of c86d36c... Simple Singleton Instance
