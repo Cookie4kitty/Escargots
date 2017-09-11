@@ -1,5 +1,5 @@
 
-//线程不安全
+//�̲߳���ȫ
 public class HelloWorld{
 	private static HelloWorld instance;
 	private HelloWorld(){}
@@ -11,7 +11,7 @@ public class HelloWorld{
 	}
 }
 
-//线程安全
+//�̰߳�ȫ
 public class HelloWorld{
 	private static HelloWorld instance;
 	private HelloWorld(){}
