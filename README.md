@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 //线程不安全
-=======
-# Escargots
->>>>>>> parent of 521b926... HelloWorld
 public class HelloWorld{
 	private static HelloWorld instance;
 	private HelloWorld(){}
@@ -13,6 +9,7 @@ public class HelloWorld{
 	}
 	return instance;
 	}
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 
@@ -29,10 +26,4 @@ public class HelloWorld{
 }
 
 
-=======
-# Escargots
-Test
->>>>>>> parent of c86d36c... Simple Singleton Instance
-=======
-}
->>>>>>> parent of 521b926... HelloWorld
+
