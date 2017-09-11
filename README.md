@@ -9,8 +9,6 @@ public class HelloWorld{
 	}
 	return instance;
 	}
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 
 //线程安全
